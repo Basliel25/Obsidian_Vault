@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d7d240a9380c6a33",
+        "id": "64bc49e45331a683",
         "type": "tabs",
         "children": [
           {
-            "id": "db8de2d60c371f28",
+            "id": "39f2366bf17df030",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Map of Content.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#p/research",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221
+    "width": 200
   },
   "right": {
     "id": "5606bf58e78aed56",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Map of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Map of Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,21 +119,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "c095db9bc2b60e7d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,10 +137,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b72be6068837abd1",
+  "active": "39f2366bf17df030",
   "lastOpenFiles": [
-    "README.md",
+    "Trackers/Life.md",
+    "Templates/Map of Content.md",
+    "Trackers/Projects.md",
+    "Zettelkasten/Chips for Quantum Communication.md",
+    "Zettelkasten/Quantum cryptography.md",
+    "Trackers/Tasks.md",
     "Map.md",
+    "Trackers/Project-Computing.md",
+    "Trackers/School.md",
+    "Trackers/Projcet-Research.md",
+    "Trackers",
+    "Zettlkasten",
+    "Fleeting Notes/Choose research topic.md",
+    "Templates/Tracker.md",
+    "Templates/Note.md",
+    "README.md",
     "Untitled.md",
     "Attachments",
     "Zettelkasten",
