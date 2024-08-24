@@ -4,9 +4,11 @@ Last Update: 24-08-24 14:26
 ##### Tasks - [[Tasks|Tracker]]
 
 ##### Trackers
+- [[Life]]
 - [[Tasks]]
 - [[School]]
 - [[Projects]]
+- [[Ideas]]
 ##### By Tags
 - All things *school*: #sh 
 	- Course Specific: #sh/courses 

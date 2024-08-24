@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Map of Content.md",
+                "file": "Trackers/Life.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aca47ef7ac496e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "696d3bbd6a4329df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#p/research",
+                "query": "tag:#sh/courses",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Map of Content.md",
+                "file": "Trackers/Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Map of Content.md",
+                "file": "Trackers/Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,13 +158,17 @@
   },
   "active": "39f2366bf17df030",
   "lastOpenFiles": [
+    "Trackers/Ideas.md",
+    "Map.md",
+    "Zettelkasten/Startup Ideas.md",
+    "Zettelkasten/CV.md",
     "Trackers/Life.md",
+    "Trackers/Skill Board.md",
     "Templates/Map of Content.md",
     "Trackers/Projects.md",
     "Zettelkasten/Chips for Quantum Communication.md",
     "Zettelkasten/Quantum cryptography.md",
     "Trackers/Tasks.md",
-    "Map.md",
     "Trackers/Project-Computing.md",
     "Trackers/School.md",
     "Trackers/Projcet-Research.md",
