@@ -10,5 +10,6 @@ ___
 
 - [ ] Start Studying⏫ #sh/coursework #sh/exams 
 ### Courses
+- Digital Systems | 9 ECTS | 
 ### References
 - 

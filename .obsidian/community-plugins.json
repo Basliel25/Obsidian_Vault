@@ -2,5 +2,6 @@
   "theme-picker",
   "obsidian-git",
   "tag-wrangler",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-vimrc-support"
 ]

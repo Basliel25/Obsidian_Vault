@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trackers/Life.md",
+                "file": "Literature Notes/Course Note-Digital Systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map.md",
+                "file": "Attachments/Index of Attachments.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,6 +40,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "547aa468e91ca40b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "366292b1b0996054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attachments/Index of Attachments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "128a4fcaecffcffb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/DG14.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trackers/Life.md",
+                "file": "Attachments/Index of Attachments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trackers/Life.md",
+                "file": "Attachments/Index of Attachments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,13 +168,24 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "41db439ccaf2a780",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Attachments/Index of Attachments.md"
+              }
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,34 +197,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39f2366bf17df030",
+  "active": "696d3bbd6a4329df",
   "lastOpenFiles": [
-    "Trackers/Ideas.md",
+    "Attachments/DG14.pdf",
+    "Attachments/Index of Attachments.md",
+    "Attachments/DG13.pdf",
+    "Attachments/DG12.pdf",
+    "Attachments/DG11.pdf",
+    "Attachments/DG10.pdf",
+    "Attachments/DG9.pdf",
+    "Attachments/DG8.pdf",
+    "Attachments/DG7.pdf",
+    "Attachments/DG6.pdf",
+    "Attachments/DG4.pdf",
+    "Attachments/DG5.pdf",
+    "Trackers/School.md",
     "Map.md",
+    "Literature Notes/Course Note-Digital Systems.md",
+    "Fleeting Notes/Choose research topic.md",
+    "Trackers/Projects.md",
+    "Trackers/Ideas.md",
+    "Zettelkasten/Chips for Quantum Communication.md",
+    "Trackers/Tasks.md",
+    "Trackers/Life.md",
     "Zettelkasten/Startup Ideas.md",
     "Zettelkasten/CV.md",
-    "Trackers/Life.md",
     "Trackers/Skill Board.md",
     "Templates/Map of Content.md",
-    "Trackers/Projects.md",
-    "Zettelkasten/Chips for Quantum Communication.md",
     "Zettelkasten/Quantum cryptography.md",
-    "Trackers/Tasks.md",
     "Trackers/Project-Computing.md",
-    "Trackers/School.md",
     "Trackers/Projcet-Research.md",
-    "Trackers",
-    "Zettlkasten",
-    "Fleeting Notes/Choose research topic.md",
     "Templates/Tracker.md",
     "Templates/Note.md",
     "README.md",
     "Untitled.md",
-    "Attachments",
-    "Zettelkasten",
-    "Templates",
-    "Literature Notes",
-    "Fleeting Notes",
     "Welcome.md"
   ]
 }
