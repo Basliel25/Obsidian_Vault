@@ -2,7 +2,7 @@
 26-08-24
 ___
 ### Descriptor:
-A browser for everything the attachment section.
+A browser foreverything the attachment section
 ### Browse by:
 - #### Courses
 	- ###### [[DG1.pdf|1. Introduction to digital systems]]

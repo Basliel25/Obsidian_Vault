@@ -8,6 +8,7 @@ Computing Projects
 ### Planned
 ___
 - [[Choose research topic]]
+- [[Project - Portfolio website]]
 ### Tasks
 ___
 ###### *Task tags:*

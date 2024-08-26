@@ -4,6 +4,7 @@
 A bounty board but for skill, to track the development and priority of skills
 ___
 ## Browse
+- [[CV]]
 - [[Skill Board#Career|Career]]
 	- [[Skill Board#Computers|Computers]] 
 	- [[Skill Board#Sciences|Sciences]] 
